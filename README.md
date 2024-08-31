@@ -1,7 +1,5 @@
 # Hello! I'm Tarun Vasakam K
 
----
-
 ### About Me
 - Full Stack Developer - Fresher
 - Passionate about coding and learning new technologies
