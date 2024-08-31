@@ -6,7 +6,7 @@
 - Exploring Front-end, Back-end and Database development
 
 ### Languages and Tools
-<p style="display: flex; align-items: center; justify-content: start; gap: 10px; flex-wrap: wrap;">
+<p style="display: flex; align-items: center; justify-content: start;flex-wrap: wrap;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
