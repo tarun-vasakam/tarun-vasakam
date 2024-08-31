@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 36px; font-weight: bold">Hello! I'm Tarun Vasakam K</p>
+<p align="center"> # Hello! I'm Tarun Vasakam K</p>
 
 ---
 
