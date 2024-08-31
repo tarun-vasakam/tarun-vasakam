@@ -1,4 +1,4 @@
-<p align="center"> # Hello! I'm Tarun Vasakam K</p>
+# Hello! I'm Tarun Vasakam K
 
 ---
 
