@@ -1,4 +1,4 @@
-# Hello! I'm Tarun Vasakam K
+<h1 align="center">Hello! I'm Tarun Vasakam K</h1>
 
 ### About Me
 - Full Stack Developer - Fresher
