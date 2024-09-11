@@ -47,8 +47,6 @@
 
 I’m dedicated to enhancing my coding skills and working on impactful projects. Feel free to explore my repositories to see my current work.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/TarunVasakam?theme=forest&font=Noto%20Sans%20Kaithi)
-
 ### Connect with me
 <p style="display: flex; align-items: center; justify-content: start; gap: 10px; flex-wrap: wrap;">
 <a href="https://linkedin.com/in/tarun-vasakam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-vasakam" height="30" width="40" /></a>
