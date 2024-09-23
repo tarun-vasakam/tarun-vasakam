@@ -43,7 +43,7 @@
 
 ### Currently Learning
 - Frameworks
-- AWS Cloud service
+- Data Structures and Algorithms
 
 I’m dedicated to enhancing my coding skills and working on impactful projects. Feel free to explore my repositories to see my current work.
 
